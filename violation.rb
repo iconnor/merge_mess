@@ -1,4 +1,4 @@
-#simple ruby file with violations
+# simple ruby file with violations
 puts "string wiht double quotes"
 
 if true
